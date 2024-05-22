@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Inherit from Material3 theme because we are using their DatePicker component -->
+    <style name="Theme.Trekly" parent="Theme.Material3.Light.NoActionBar" />
+</resources>
